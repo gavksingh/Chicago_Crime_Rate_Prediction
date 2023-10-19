@@ -40,4 +40,4 @@ For detailed code implementation and step-by-step instructions, refer to the Jup
 Feel free to adapt and use this project for your own research or analysis. If you have any questions or suggestions, please don't hesitate to reach out.
 
 Happy forecasting!
-# Chicago_Crime_Rate_Prediction
+
